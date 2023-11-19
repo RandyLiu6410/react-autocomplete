@@ -1,0 +1,11 @@
+.autocomplete__container {
+  position: relative;
+  width: 300px;
+  margin: 50px auto;
+}
+
+.autocomplete__input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
